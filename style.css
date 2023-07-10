@@ -61,12 +61,12 @@ p {
 .featured-image{
     display: flex;
     justify-content: center;
-    height: 450px;
+    height: 400px;
     width: 300px;
     margin: 10px;
     padding: 100px 80px 0;
-    border-top-left-radius: 50%;
-    border-top-right-radius: 50%;
+    border-top-left-radius: 100%;
+    border-top-right-radius: 100%;
 }
 
 .featured-img-1{
