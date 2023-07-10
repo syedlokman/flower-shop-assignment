@@ -10,6 +10,13 @@ h1 {
     font-weight: ExtarBold;
 }
 
+h2 {
+    font-size: 40px;
+    font-family: Lato;
+    font-weight: ExtarBold;
+    padding: 40px 0;
+}
+
 p {
     font-size: 24px;
     line-height: 1.35;
@@ -38,4 +45,44 @@ p {
     border-radius: 10px;
     border:none;
     text-align: center;
+}
+
+.margin-section{
+    margin: 80px;
+    text-align: center;
+}
+
+.featured-products{
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+.featured-image{
+    display: flex;
+    justify-content: center;
+    height: 450px;
+    width: 300px;
+    margin: 10px;
+    padding: 100px 80px 0;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.featured-img-1{
+    background-color: #A7216225;
+}
+
+.featured-img-2{
+    background-color: #0597A025;
+}
+
+.featured-img-3{
+    background-color: #477D1125;
+}
+
+.featured-item-title{
+    text-decoration: underline;
+    font-weight: 600;
+    padding-top: 10px;
 }
