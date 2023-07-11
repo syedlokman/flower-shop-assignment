@@ -86,3 +86,17 @@ p {
     font-weight: 600;
     padding-top: 10px;
 }
+
+.deal-section{
+    display: flex;
+    background-color: #e5547320;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 40px
+}
+
+.deal-description{
+    width: 40%;
+    padding: 0 120px;
+    text-align:center;
+}
