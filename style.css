@@ -17,6 +17,13 @@ h2 {
     padding: 40px 0;
 }
 
+h3 {
+    font-size: 40px;
+    font-family: Lato;
+    font-weight: ExtarBold;
+    padding: 40px 0;
+}
+
 p {
     font-size: 24px;
     line-height: 1.35;
@@ -129,3 +136,19 @@ input[type=text] {
     border-radius: 10px;
     font-size: 18px;
   }
+
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-color: rgb(34, 34, 34);
+    padding: 100px 50px;
+}
+
+.copyright{
+    color: rgb(202, 202, 202);
+    padding: 20px 0;
+}
